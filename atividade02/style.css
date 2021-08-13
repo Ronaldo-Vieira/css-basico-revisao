@@ -1,0 +1,32 @@
+.number{
+    font-weight: bold;
+}
+h1{
+    text-align: right;
+}
+table{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    text-align: center;
+}
+#td0{
+    background-color: royalblue;
+}
+#td1{
+    background-color: rgb(160, 170, 201);
+}
+#td2{
+    background-color: rgb(226, 9, 27);
+}
+#td3{
+    background-color: rgb(6, 133, 95);
+}
+#td4{
+    background-color: rgb(219, 171, 12);
+}
+#td5{
+    background-color: rgb(13, 207, 6);
+}
